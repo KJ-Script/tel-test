@@ -3,7 +3,7 @@ import './App.css'
 
 function App() {
     useEffect(() => {
-      window.location.href = "sms:+251939858566"
+      window.location.href = "sms:+251939858566&body=Hi%Abel%Endeshaw"
   }, [])
   
   
