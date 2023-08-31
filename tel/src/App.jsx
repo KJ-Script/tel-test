@@ -8,7 +8,7 @@ function App() {
 
   return (
     <>
-      <a href="tel:+251939858566">call</a>
+      <a href="sms:+251939858566">call</a>
     </>
   )
 }
