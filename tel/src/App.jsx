@@ -12,7 +12,6 @@ function App() {
   
   return (
     <>
-    <a href="sms:+251939858566">sms slightly</a>
     </>
   )
 }
